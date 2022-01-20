@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrockHickman
+- 👀 I’m interested in ... Software engineering!
+- 🌱 I’m currently taking the CS50 course from Harvard University!
+- 📫 How to reach me ... brockwackman@gmail.com
